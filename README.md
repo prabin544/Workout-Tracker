@@ -4,7 +4,7 @@ This app will help users to create a new workout plan and add different exercise
 Users can add exercise to existing workout plan to reach their fitness goal.  
 Users will be able to view the combined weight of multiple exercises on the stats page.  
 
-![screenshot](public/imgs/bracketspage.png)
+![Alt text](/public/public/imgs/SS.PNG?raw=true "ss")
 
 ## Links
 
